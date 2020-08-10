@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51744073-8df6-412e-9e6b-9bf4644cebea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/static-job-listings-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/account.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/account.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/bg-header-desktop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-header-desktop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/bg-header-mobile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-header-mobile.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/eyecam-co.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/eyecam-co.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/faceit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/faceit.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icon-remove.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon-remove.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/insure.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/insure.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/loop-studios.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/loop-studios.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/manage.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/manage.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/myhome.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/myhome.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/photosnap.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photosnap.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/shortly.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/shortly.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/the-air-filter-company.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/the-air-filter-company.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ftuckGVdLIZ6XkXp8DsHIPmX4u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51744073-8df6-412e-9e6b-9bf4644cebea" name="Default Changelist" comment="" />
+      <created>1597049791981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597049791981</updated>
+      <workItem from="1597049793075" duration="3814000" />
+      <workItem from="1597055753771" duration="6065000" />
+      <workItem from="1597064698954" duration="4967000" />
+    </task>
+    <task id="LOCAL-00001" summary="added data and design files">
+      <created>1597055855986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597055855987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed data structure">
+      <created>1597057384882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597057384882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added data and design files" />
+    <MESSAGE value="changed data structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed data structure" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597055710738">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="418" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1597055710738" />
+    <state x="700" y="329" width="509" height="391" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597068471424">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="700" y="329" width="509" height="391" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1597068471424" />
+    <state x="693" y="275" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597066683867">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="693" y="275" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1597066683867" />
+    <state x="560" y="186" width="789" height="677" key="CommitChangelistDialog2" timestamp="1597057384838">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="560" y="186" width="789" height="677" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1597057384838" />
+    <state x="182" y="89" width="1536" height="870" key="DiffContextDialog" timestamp="1597057160936">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="182" y="89" width="1536" height="870" key="DiffContextDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1597057160936" />
+    <state x="714" y="239" width="481" height="571" key="RollbackChangesDialog" timestamp="1597057246544">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="714" y="239" width="481" height="571" key="RollbackChangesDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1597057246544" />
+    <state x="555" y="261" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1597057392100">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="261" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1597057392100" />
+  </component>
+</project>
